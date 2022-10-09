@@ -1,22 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-  <version>1.3.3311 rev828</version>
+  <version>1.3.3389 rev40</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>ludeon.rimworld</li>
     <li>ludeon.rimworld.royalty</li>
     <li>ludeon.rimworld.ideology</li>
+    <li>dvs.ninetyninepercent</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>frozensnowfox.advancedbionicsexpansion</li>
-    <li>automatic.autocleaner</li>
-    <li>anonymous189.regrowthhcorehremastered</li>
     <li>unlimitedhugs.hugslib</li>
     <li>unlimitedhugs.allowtool</li>
+    <li>automatic.autocleaner</li>
     <li>razor2.3.anotherrimworldmod.autocutblight</li>
     <li>automatic.bionicicons</li>
     <li>brrainz.cameraplus</li>
-    <li>odeum.wmbp</li>
+    <li>orion.cashregister</li>
+    <li>crashm.colorcodedmoodbar.11</li>
+    <li>kikohi.whatsforsale</li>
+    <li>owlchemist.undergroundpowerconduits</li>
+    <li>petetimessix193.simplehsidearms</li>
     <li>gguake.ui.simplesearchbar</li>
+    <li>targhetti.showdrafteesweapon</li>
+    <li>anonymous189.sharehthehload</li>
+    <li>explodoboy.snsambitioncosmic</li>
+    <li>radzerp.neorimnauts</li>
+    <li>dubwise.rimefeller</li>
+    <li>anonymous189.regrowthhcorehremastered</li>
+    <li>anonymous189.projecthrimfactoryhrevived</li>
+    <li>anonymous189.mortarhaccuracy</li>
+    <li>andrewraphaellukasik.allowdeadanimals</li>
+    <li>odeum.wmbp</li>
+    <li>co.uk.epicguru.whatsthatmod</li>
+    <li>uuugggg.whatismypurpose</li>
+    <li>murmur.walllight</li>
     <li>vanillaexpanded.vwetb</li>
     <li>vanillaexpanded.achievements</li>
     <li>vanillaexpanded.vwe</li>
@@ -47,6 +64,7 @@
     <li>vanillaexpanded.vplantse</li>
     <li>vanillaexpanded.vplantsemore</li>
     <li>vanillaexpanded.outposts</li>
+    <li>anon.vanillamissingbionics</li>
     <li>vanillaexpanded.viesas</li>
     <li>vanillaexpanded.vcooke</li>
     <li>vanillaexpanded.vcef</li>
@@ -103,76 +121,58 @@
     <li>automatic.traderships</li>
     <li>zhrocks11.stackablechunks</li>
     <li>linkolas.stabilize</li>
+    <li>smashphil.neceros.srtsexpanded</li>
     <li>somewhereoutinspace.spaceports</li>
+    <li>udderlyevelyn.consistentmapstone</li>
+    <li>udderlyevelyn.soilrelocation</li>
     <li>weilbyte.snapout</li>
     <li>uuugggg.smartmedicine</li>
     <li>dhultgren.smarterconstruction</li>
     <li>dubwise.dubsskylights</li>
+    <li>jangodsoul.simplestorage</li>
     <li>syrchalis.setupcamp</li>
+    <li>tammybee.selectablesculpturegraphic</li>
     <li>mlie.roadsoftherim</li>
     <li>orion.hospitality</li>
     <li>mlie.rimquest</li>
+    <li>erdelf.humanoidalienraces</li>
+    <li>rimeffect.core</li>
+    <li>rimeffect.extendedcut</li>
+    <li>twistedpacifist.reasonablecomponents</li>
     <li>uuugggg.replacestuff</li>
     <li>lucifer.realisticrooms</li>
     <li>woolstrand.realruins</li>
     <li>hatti.qualitybuilder</li>
     <li>community.psychology.unofficialupdate</li>
     <li>syrchalis.prosthetictable</li>
+    <li>edb.preparecarefully</li>
     <li>haplo.miscellaneous.robots</li>
     <li>mehni.pickupandhaul</li>
-    <li>com.github.alandariva.moreplanning</li>
-    <li>erdelf.minifyeverything</li>
-    <li>unlimitedhugs.mapreroll</li>
-    <li>zylle.mapdesigner</li>
-    <li>arandomkiwi.huntforme</li>
-    <li>notooshabby.homemover</li>
-    <li>sf.grim.reality</li>
-    <li>orion.cashregister</li>
-    <li>orion.gastronomy</li>
-    <li>nals.facialanimation</li>
-    <li>ceteam.combatextended</li>
-    <li>edb.preparecarefully</li>
-    <li>avius.locks</li>
-    <li>dvs.ninetyninepercent</li>
-    <li>dubwise.dubsbadhygiene</li>
-    <li>dubwise.dubscentralheating</li>
-    <li>smashphil.neceros.srtsexpanded</li>
-    <li>erdelf.humanoidalienraces</li>
-    <li>rimeffect.core</li>
-    <li>m00nl1ght.geologicallandforms</li>
-    <li>rimeffect.extendedcut</li>
-    <li>udderlyevelyn.consistentmapstone</li>
-    <li>udderlyevelyn.soilrelocation</li>
-    <li>crashm.colorcodedmoodbar.11</li>
-    <li>udderlyevelyn.consistentdeepdrillstone</li>
-    <li>sr.modrimworld.factionalwar</li>
-    <li>smuffle.harvestorganspostmortem</li>
-    <li>murmur.walllight</li>
-    <li>anon.vanillamissingbionics</li>
-    <li>tammybee.selectablesculpturegraphic</li>
-    <li>twistedpacifist.reasonablecomponents</li>
     <li>fluffy.pharmacist</li>
     <li>bichang.moresculpture</li>
+    <li>com.github.alandariva.moreplanning</li>
     <li>alaestor.miscrobots.plusplus</li>
+    <li>erdelf.minifyeverything</li>
     <li>thegoofyone.metaldoesntburn</li>
-    <li>jangodsoul.simplestorage</li>
-    <li>uuugggg.whatismypurpose</li>
-    <li>kikohi.whatsforsale</li>
-    <li>owlchemist.undergroundpowerconduits</li>
-    <li>petetimessix193.simplehsidearms</li>
-    <li>anonymous189.sharehthehload</li>
-    <li>dubwise.dubsmintmenus</li>
-    <li>iemanddieabeheet.colonistsdeco</li>
-    <li>dubwise.rimatomics</li>
+    <li>unlimitedhugs.mapreroll</li>
+    <li>zylle.mapdesigner</li>
+    <li>avius.locks</li>
+    <li>arandomkiwi.huntforme</li>
+    <li>notooshabby.homemover</li>
+    <li>smuffle.harvestorganspostmortem</li>
+    <li>sf.grim.reality</li>
     <li>telefonmast.graphicssettings</li>
-    <li>co.uk.epicguru.whatsthatmod</li>
-    <li>explodoboy.snsambitioncosmic</li>
-    <li>andrewraphaellukasik.allowdeadanimals</li>
-    <li>anonymous189.mortarhaccuracy</li>
-    <li>radzerp.neorimnauts</li>
-    <li>targhetti.showdrafteesweapon</li>
-    <li>anonymous189.projecthrimfactoryhrevived</li>
-    <li>dubwise.rimefeller</li>
+    <li>m00nl1ght.geologicallandforms</li>
+    <li>orion.gastronomy</li>
+    <li>sr.modrimworld.factionalwar</li>
+    <li>nals.facialanimation</li>
+    <li>dubwise.rimatomics</li>
+    <li>dubwise.dubsmintmenus</li>
+    <li>dubwise.dubsbadhygiene</li>
+    <li>dubwise.dubscentralheating</li>
+    <li>udderlyevelyn.consistentdeepdrillstone</li>
+    <li>ceteam.combatextended</li>
+    <li>iemanddieabeheet.colonistsdeco</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.ideology</li>
