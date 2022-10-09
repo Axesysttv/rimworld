@@ -10,12 +10,12 @@ Direct3D:
     VRAM:     8151 MB
     Driver:   31.0.12019.16007
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.073 seconds
+- Completed reload, in  0.096 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initialized touch support.
-UnloadTime: 0.752000 ms
+UnloadTime: 0.544500 ms
 [Steamworks.NET] SteamAPI.Init() failed. Possible causes: Steam client not running, launched from outside Steam without steam_appid.txt in place, running with different privileges than Steam client (e.g. "as administrator") 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
@@ -53,38 +53,148 @@ Mod Simple sidearms is missing supported versions list in About.xml! (example: <
 Mod Simple sidearms is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A22F390.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001245435A890.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-0000012453FE1CE0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-0000012453FE4EF0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-0000012453FE7500.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-0000012454085920.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A0FA010.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A11B020.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A229370.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-0000012453FEC510.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A135030.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A16D050.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A310070.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A181C60.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-0000012453FF0530.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-0000012453F02280.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A348020.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-0000012453C1B020.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A46C2B0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A1B38B0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A559010.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A58D020.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A664440.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A66DC50.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A671E70.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A691690.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A69D0A0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A6AA0B0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A77A4E0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A79FB00.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A7AB710.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A7AE720.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47EEFABD0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A456C8D060.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A456801070.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A456804280.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47EE0B020.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A4566710A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47EE10030.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47EE31040.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A456806890.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47EE4B050.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47EFC1C00.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47EFF9C20.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F0128A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F050010.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F073C50.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F075260.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F076870.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A456487620.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F19B310.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A456490830.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A4564AB470.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F404010.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F438020.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A4564D36A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F45BC50.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F47B870.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F487280.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F494290.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F4B74B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F4BD6D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F598140.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47ED34FC0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F5A5F60.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A456665070.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F3E0A00.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F5CB590.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F5CE9A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F5EBFC0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F6035F0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F612E10.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A4566850F0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F645620.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F652640.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F3EAA50.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F66C670.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F734CA0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F753EC0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F7714E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F77C0F0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F78E510.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F7AFB20.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F883760.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F936180.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F93CB90.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F9435B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F9B6940.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F9D3E70.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F9DA0A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F9DF2B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47F9E2EC0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47FA05400.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47FA49350.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47FA54360.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47FA5C170.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47FA5F390.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47FA783A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47FAA4ED0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47FABD2F0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47FADD620.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47FB4F010.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E04B0080.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E04D1AA0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A4566750B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47FB0D7A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E04E38C0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E04EDED0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47FB177F0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E050CD00.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A456C95CD0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E050EF10.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0513720.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E05E0B60.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E069E790.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E06A01A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E06AABC0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E06ADFD0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0791A00.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0797810.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E07A9E20.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0889A70.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0894290.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E08998A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E08ADCC0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E08F5C00.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0900A20.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0901C30.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0902E40.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E091E380.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E093B9A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E09870E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E098FCF0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0A01010.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0A05430.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0A06A40.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0A21060.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0A42890.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0B26440.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0B2E450.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0B50270.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0B89CA0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0BB9020.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0BD3A40.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0C04690.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0C16AB0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0C32CC0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0C3F6D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0E06830.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0E9F5C0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0EAE3E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E0F77810.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E10E0440.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E11B7260.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E12B5C90.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A47ED377D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E13BD8D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E13EF0F0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E1431920.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E1449130.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E1450B40.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E1452550.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E145D360.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E1462970.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E1545290.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E15468A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E146FF90.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E15550B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E1475DA0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E14787B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E15792E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E157C2F0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E1580500.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E1583510.dll
 ReflectionTypeLoadException getting types in assembly SimpleSidearms: System.Reflection.ReflectionTypeLoadException: Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
   at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
   at System.Reflection.Assembly.GetTypes () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
@@ -95,145 +205,243 @@ Loader exceptions:
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A84DC40.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A7DD390.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A9BA670.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247AA72890.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-0000012453890260.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247AB5ECC0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247AB6C2E0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247AB79700.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247AB7FB10.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247AB83D20.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247AB8B530.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247AC5EF90.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A09D080.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247AC78DD0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-0000012454095960.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A541460.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247AC8A3E0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247AC95800.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247ACAAE10.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247ACB2420.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247ACBDC30.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001245408D940.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247ACF0440.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247AD0B460.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A7E8450.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247AD2E4A0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247ADF5AC0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247AE16CF0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247AE38320.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247AE42F30.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BA90080.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247AE59360.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A7DF7A0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BC38E20.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BC3F830.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BC42240.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BC84C70.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BCA1C80.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247AE69D90.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BCA2E90.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BCAEAB0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BCC8AC0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BCEBCE0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BD0F110.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BD16F20.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BD18130.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BD31140.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BDB1540.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BDC1960.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BDE1C90.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BE25DE0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BE275F0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BE39000.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-0000012454099970.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BD8F900.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BE3EE20.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BE4B440.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BD81890.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BE68260.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001245435BCA0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BE6A470.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BE6EC80.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247BF440C0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C008CF0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C00A700.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C0E4D40.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C10CB50.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C10FF60.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C12CD70.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C12E780.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C2011C0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C206FD0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C2195E0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C2E5200.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C2EFA20.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C314A50.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C317460.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C32B880.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C3AD410.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C3BE230.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C3CF450.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C49B280.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247A0A70C0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C5933D0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C5BCBE0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C5D4600.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C5F3620.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C610C40.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C67BE70.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C684A80.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C6B4490.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C6B80A0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C76FEC0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C847180.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C8617A0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C86FFB0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C887DC0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C8959E0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C958E10.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C960E20.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C97EC30.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C997250.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C9A2060.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C9AE870.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C9B9280.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C9D9AB0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C9E78D0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247C9F32F0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247CA60080.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247CA78EE0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247CA950F0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247CAA3900.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247CB88340.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247CCF7230.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247CD1DC40.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247CDE9080.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247CF104C0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247CF2B6E0.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247CF2E700.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247D0FF390.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247D386020.dll
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001247D5CA090.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E171B220.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E1806E40.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E18D4860.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E192D270.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E160E030.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E1940CA0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A4562BB0C0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E19FD8C0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E1AB6CE0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E1B6BD10.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E1C52E70.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E1DF0160.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E1FB8A30.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E1F0F030.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E2104060.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E231A010.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E231AC20.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E219A030.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E219AC40.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E2442190.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E2449270.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E244B6A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E244C2B0.dll
 [HugsLib] version 9.0.1
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-00000122851B6050.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E92EE8D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9368020.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E936A5F0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E936B200.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9303490.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E930A0E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E93B58D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E93B7D00.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E93B4CC0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E93B34A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E93B1070.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E93B1C80.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E93B64E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E93B70F0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E93B2890.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E93B40B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E952B4A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E952C0B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E952FD00.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E952CCC0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E952F0F0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9529070.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E952E4E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9530910.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E952D8D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9529C80.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9531520.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E952A890.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E95375A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E95381B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9535D80.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9534560.dll
 [HugsLib] early-initializing AllowTool
-Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-00000122857B8010.dll
-Rimefeller 1.2.700
-Loaded What's That Mod.
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9535170.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9533950.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9532130.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9532D40.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9536990.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A4F0B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A4E4A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A4FCC0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A4B460.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A4CC80.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A49030.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A4A850.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A508D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9E7F010.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A4C070.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A4D890.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A49C40.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A52D00.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A54520.dll
 [VanillaAchievementsExpanded] version 1.3.7862
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A57560.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A58170.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A56950.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A514E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A520F0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A55130.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A53910.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9A55D40.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E97CCC70.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E97CC060.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E97CD880.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E97D08C0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E97D20E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E97CE490.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E97CF0A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E97CFCB0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E97D14D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E97D2CF0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9F0F5D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9F101E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9F13220.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9F13E30.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9F15650.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9F14A40.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9F16260.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9F10DF0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9F12610.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2E9F11A00.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA10D8E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA10C0C0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA10F100.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA109C90.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA10CCD0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA10A8A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA10E4F0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA10FD10.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA10B4B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA109080.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA114570.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA1169A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA115D90.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA113960.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA1175B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA115180.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA110920.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA1181C0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA111530.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA112140.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA112D50.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA226CC0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA22B520.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA2284E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA2290F0.dll
 [Vanilla Furniture Expanded - Architect] Activating Replace Stuff compatibility patch
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA229D00.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA22CD40.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA2260B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA22C130.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA22A910.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA22D950.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA22E560.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA2278D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA2315A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA22F170.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA22FD80.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA2345E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA232DC0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA2339D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA230990.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA2321B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA2351F0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA1D28C0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA1D10A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA1D34D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA1CE060.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA1CEC70.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA1D1CB0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA1CF880.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA1D40E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA1D0490.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EA1D4CF0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBA8D880.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBA8CC70.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBA8F0A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBA8C060.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBA914D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBA8E490.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBA8FCB0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBA908C0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBA920E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBA92CF0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC26890.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC298D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC274A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC2A4E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC280B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC28CC0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC2BD00.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC2B0F0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC25070.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC2C910.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC25C80.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC32990.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC335A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC31D80.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC2D520.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC30560.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC2E130.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC31170.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC2ED40.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC341B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBC2F950.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EC4D8C70.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EC4DE0E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EC4DB0A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EC4DC8C0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EC4DBCB0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EC4D8060.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EC4DD4D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EC4DF900.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EC4E0510.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EC4D9880.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EC4E1120.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EC4DA490.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EC4E4D70.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EC4E71A0.dll
 Dubs Skylight 1.5.1706
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EC4E3550.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EC4E1D30.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EC4E4160.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EC4E2940.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EC4E5980.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EC4E6590.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE24800.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE25410.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE29060.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE26020.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE29C70.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE26C30.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE27840.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE2A880.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE28450.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE23BF0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE2FCF0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE31510.dll
 QualityBuilder successfully patched Replace Stuff
-[1.3]Graphics Setter - Loaded
-Rimatomics 1.7.2473
-DubsMintMenus v1.3.977
-dubwise.dubsbadhygiene 3.0.2156
-dubwise.dubscentralheating v1.0.45
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE2CCB0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE30900.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE32120.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE2B490.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE2D8C0.dll
 Combat Extended :: Harmony_GenRadial_RadialPatternCount :: Info: Post GenRadial patch maximum radius: 119.4194
 Combat Extended :: initialized
+dubwise.dubsbadhygiene 3.0.2156
+dubwise.dubscentralheating v1.0.45
+DubsMintMenus v1.3.977
+Rimatomics 1.7.2473
+[1.3]Graphics Setter - Loaded
+Loaded What's That Mod.
+Rimefeller 1.2.700
 LWM Deep Storage: activated compatibility patch for Combat Extended
 LWM Deep Storage: activated compatibility patch for Dubs Bad Hygiene
 LWM Deep Storage: activated compatibility patch for Vanilla Cooking Expanded
@@ -262,35 +470,6 @@ Exception loading list element from XML: System.MissingMethodException: Default 
   at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
 XML:
 <modExtensions><li Class="ReGrowthCore.ThoughtExtensions"><removeThoughtsWhenAdded><li>RG_Wet</li><li>RG_ExtremelyWet</li></removeThoughtsWhenAdded></li></modExtensions> 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not find a type named SimpleSidearms.rimworld.JobDriver_EquipSidearm 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not find a type named SimpleSidearms.rimworld.JobDriver_EquipSidearmCombat 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not find type named SimpleSidearms.rimworld.JobGiver_RetrieveWeapon from node <thinkRoot Class="SimpleSidearms.rimworld.JobGiver_RetrieveWeapon" /> 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Exception loading from System.Xml.XmlElement: System.MissingMethodException: Default constructor not found for type Verse.AI.ThinkNode
-  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
-  at Verse.DirectXmlToObject.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00000] in <81af9f8a18324e17b286924a43555a7c>:0 
-  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00917] in <81af9f8a18324e17b286924a43555a7c>:0  
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not find type named CompProperties_RoomIdentifier from node <li Class="CompProperties_RoomIdentifier"><roomStat>Impressiveness</roomStat></li> 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-XML error: <roomStat>Impressiveness</roomStat> doesn't correspond to any field in type CompProperties. Context: <li Class="CompProperties_RoomIdentifier"><roomStat>Impressiveness</roomStat></li> 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-XML error: <menuHidden>true</menuHidden> doesn't correspond to any field in type ThingDef. Context: <ThingDef ParentName="RimefellerPipeBase"><category>Building</category><thingClass>Rimefeller.Building_Pipe</thingClass><soundImpactDefault>BulletImpact_Metal</soundImpactDefault><selectable>true</selectable><drawerType>MapMeshOnly</drawerType><terrainAffordanceNeeded>Light</terrainAffordanceNeeded><repairEffect>Repair</repairEffect><leaveResourcesWhenKilled>false</leaveResourcesWhenKilled><filthLeaving>Filth_RubbleBuilding</filthLeaving><designationCategory>Rimefeller</designationCategory><passability>Standable</passability><altitudeLayer>Conduits</altitudeLayer><tickerType>Never</tickerType><statBases><SellPriceFactor>0.70</SellPriceFactor><MaxHitPoints>80</MaxHitPoints><WorkToBuild>260</WorkToBuild><Flammability>1.0</Flammability></statBases><graphicData><texPath>Rimefeller/Things/Building/oilPipe_Atlas</texPath><graphicClass>Graphic_Single</graphicClass><linkType>Basic</linkType><linkFlags><li>Custom6</li></linkFlags><damageData><rect>(0,0.35,1,0.3)</rect></damageData></graphicData><building><blueprintGraphicData><texPath>Rimefeller/Things/Building/oilPipe_Atlas_Blueprint</texPath></blueprintGraphicData><isInert>true</isInert><isEdifice>false</isEdifice></building><placingDraggableDimensions>1</placingDraggableDimensions><rotatable>false</rotatable><neverMultiSelect>true</neverMultiSelect><clearBuildingArea>false</clearBuildingArea><placeWorkers><li>Rimefeller.PlaceWorker_Pipe</li></placeWorkers><defName>OilPipeline</defName><label>Oil Pipeline</label><description>Plumbing for connecting plumbed things.</description><uiIconPath>Rimefeller/UI/Plumbing</uiIconPath><costList><Steel>1</Steel></costList><comps><li Class="Rimefeller.CompProperties_Pipe" /></comps><researchPrerequisites><li>OilDrilling</li></researchPrerequisites><menuHidden>true</menuHidden></ThingDef> 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Could not find a type named ReGrowthCore.DevilDust_Tornado 
@@ -341,6 +520,53 @@ XML error: <ritualExpectedPostfix>{0} {1} want to carry out the ceremonial suici
 XML error: <ritualExpectedPostfix>{0} {1} want to carry out the leadership challenge as soon as possible.</ritualExpectedPostfix> doesn't correspond to any field in type RitualPatternDef. Context: <RitualPatternDef><defName>VME_LeadershipChallengeRitual</defName><ritualBehavior>VME_LeadershipChallengeRitualBehaviour</ritualBehavior><ritualObligationTargetFilter>AnyRitualSpot</ritualObligationTargetFilter><nameMaker>NamerRitualGladiatorDuel</nameMaker><canStartAnytime>true</canStartAnytime><alwaysStartAnytime>true</alwaysStartAnytime><ritualOutcomeEffect>VME_LeadershipChallengeRitualOutcome</ritualOutcomeEffect><tags Inherit="False" /><ritualExpectedDesc>A {IDEO} member has better melee skill than the current leader, other {MEMBERS} expect {RITUAL_labelDef} to take place so only the strongest leader can rule them.</ritualExpectedDesc><ritualExpectedPostfix>{0} {1} want to carry out the leadership challenge as soon as possible.</ritualExpectedPostfix><ritualObligationTriggers><li Class="VanillaMemesExpanded.RitualObligationTriggerProperties_StrongerLeader" /></ritualObligationTriggers></RitualPatternDef> 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE2C0A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE32D30.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE33940.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE35160.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE34550.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE2E4D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE37590.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE3A5D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE3B1E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE3BDF0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE35D70.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE3CA00.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE36980.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE3D610.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE3EE30.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE3E220.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE381A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE399C0.dll
+Could not find a type named SimpleSidearms.rimworld.JobDriver_EquipSidearm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named SimpleSidearms.rimworld.JobDriver_EquipSidearmCombat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named SimpleSidearms.rimworld.JobGiver_RetrieveWeapon from node <thinkRoot Class="SimpleSidearms.rimworld.JobGiver_RetrieveWeapon" /> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading from System.Xml.XmlElement: System.MissingMethodException: Default constructor not found for type Verse.AI.ThinkNode
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00000] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00917] in <81af9f8a18324e17b286924a43555a7c>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named CompProperties_RoomIdentifier from node <li Class="CompProperties_RoomIdentifier"><roomStat>Impressiveness</roomStat></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <roomStat>Impressiveness</roomStat> doesn't correspond to any field in type CompProperties. Context: <li Class="CompProperties_RoomIdentifier"><roomStat>Impressiveness</roomStat></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <menuHidden>true</menuHidden> doesn't correspond to any field in type ThingDef. Context: <ThingDef ParentName="RimefellerPipeBase"><category>Building</category><thingClass>Rimefeller.Building_Pipe</thingClass><soundImpactDefault>BulletImpact_Metal</soundImpactDefault><selectable>true</selectable><drawerType>MapMeshOnly</drawerType><terrainAffordanceNeeded>Light</terrainAffordanceNeeded><repairEffect>Repair</repairEffect><leaveResourcesWhenKilled>false</leaveResourcesWhenKilled><filthLeaving>Filth_RubbleBuilding</filthLeaving><designationCategory>Rimefeller</designationCategory><passability>Standable</passability><altitudeLayer>Conduits</altitudeLayer><tickerType>Never</tickerType><statBases><SellPriceFactor>0.70</SellPriceFactor><MaxHitPoints>80</MaxHitPoints><WorkToBuild>260</WorkToBuild><Flammability>1.0</Flammability></statBases><graphicData><texPath>Rimefeller/Things/Building/oilPipe_Atlas</texPath><graphicClass>Graphic_Single</graphicClass><linkType>Basic</linkType><linkFlags><li>Custom6</li></linkFlags><damageData><rect>(0,0.35,1,0.3)</rect></damageData></graphicData><building><blueprintGraphicData><texPath>Rimefeller/Things/Building/oilPipe_Atlas_Blueprint</texPath></blueprintGraphicData><isInert>true</isInert><isEdifice>false</isEdifice></building><placingDraggableDimensions>1</placingDraggableDimensions><rotatable>false</rotatable><neverMultiSelect>true</neverMultiSelect><clearBuildingArea>false</clearBuildingArea><placeWorkers><li>Rimefeller.PlaceWorker_Pipe</li></placeWorkers><defName>OilPipeline</defName><label>Oil Pipeline</label><description>Plumbing for connecting plumbed things.</description><uiIconPath>Rimefeller/UI/Plumbing</uiIconPath><costList><Steel>1</Steel></costList><comps><li Class="Rimefeller.CompProperties_Pipe" /></comps><researchPrerequisites><li>OilDrilling</li></researchPrerequisites><menuHidden>true</menuHidden></ThingDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
 [Combat Extended] Patch operation Verse.PatchOperationAdd(/Defs/PawnKindDef[@Name="TribalChiefBase"]/apparelRequired) failed
 file: C:\Users\Axesys\Desktop\RimWorld.v1.3.3389\Mods\combatg extended\Patches\Core\PawnKindDefs_Humanlike\PawnKinds.xml 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
@@ -353,13 +579,34 @@ file: C:\Users\Axesys\Desktop\RimWorld.v1.3.3389\Mods\combatg extended\Patches\R
 file: C:\Users\Axesys\Desktop\RimWorld.v1.3.3389\Mods\combatg extended\Patches\Vanilla Factions Expanded - Mechanoids\ThingDefs_Misc\Weapons_Mech.xml 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Windy found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySnow found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySnow found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Windy found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Hail found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
 Could not resolve cross-reference: No Verse.WeatherDef named RG_Drizzle found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Blizzard found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Drizzle found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Windy found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Overcast found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SmithingSpeed found to give to Verse.RecipeDef SNS_Production_Unobtainium 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Could not resolve cross-reference: No Verse.WeatherDef named RG_Blizzard found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
@@ -371,16 +618,10 @@ Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySnow found 
 Could not resolve cross-reference: No Verse.WeatherDef named RG_Windy found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Drizzle found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
 Could not resolve cross-reference: No Verse.WeatherDef named RG_Overcast found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Hail found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Overcast found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Monsoon found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Could not resolve cross-reference: No Verse.WeatherDef named RG_Monsoon found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
@@ -389,19 +630,40 @@ Could not resolve cross-reference: No Verse.WeatherDef named RG_Monsoon found to
 Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySnow found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not resolve cross-reference: No RimWorld.StatDef named SmithingSpeed found to give to Verse.RecipeDef SNS_Production_Unobtainium 
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Windy found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Hail found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Hail found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Overcast found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Drizzle found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Monsoon found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Drizzle found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySandstorm found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Drizzle found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySandstorm found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Could not resolve cross-reference: No Verse.WeatherDef named RG_Monsoon found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Could not resolve cross-reference: No Verse.WeatherDef named RG_Overcast found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Windy found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySandstorm found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Could not resolve cross-reference: No Verse.WeatherDef named RG_Overcast found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
@@ -416,13 +678,58 @@ Could not resolve cross-reference: No RimWorld.StatDef named SmithingSpeed found
 Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySnow found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Windy found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Windy found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_SandStorm found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySnow found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Windy found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Windy found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Overcast found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_SandStorm found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Monsoon found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
 Could not resolve cross-reference: No Verse.WeatherDef named RG_Blizzard found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Windy found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Overcast found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_SandStormHard found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Blizzard found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Monsoon found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_SandStormHard found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Hail found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Could not resolve cross-reference: No Verse.WeatherDef named RG_Windy found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySandstorm found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Could not resolve cross-reference: No RimWorld.StatDef named SmithingSpeed found to give to Verse.RecipeDef SNS_Production_Unobtainium_FiberCompress 
@@ -431,43 +738,55 @@ Could not resolve cross-reference: No RimWorld.StatDef named SmithingSpeed found
 Could not resolve cross-reference: No Verse.WeatherDef named RG_Hail found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Monsoon found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Hail found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Drizzle found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Could not resolve cross-reference: No Verse.WeatherDef named RG_Windy found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not resolve cross-reference: No RimWorld.StatDef named SmithingSpeed found to give to Verse.RecipeDef SNS_Production_Fuel 
+Could not resolve cross-reference: No Verse.WeatherDef named RG_SandStorm found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Drizzle found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySnow found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Blizzard found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_SandStormHard found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySnow found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Could not resolve cross-reference: No Verse.WeatherDef named RG_Monsoon found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SmithingSpeed found to give to Verse.RecipeDef SNS_Production_Fuel 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Hail found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Blizzard found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Hail found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Hail found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Could not resolve cross-reference: No Verse.WeatherDef named RG_Drizzle found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Could not resolve cross-reference: No Verse.WeatherDef named RG_Hail found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Monsoon found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Windy found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySnow found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Hail found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySandstorm found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Overcast found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_SandStorm found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Could not resolve cross-reference: No Verse.WeatherDef named RG_Drizzle found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
@@ -476,394 +795,37 @@ Could not resolve cross-reference: No Verse.WeatherDef named RG_Drizzle found to
 Could not resolve cross-reference: No RimWorld.StatDef named SmithingSpeed found to give to Verse.RecipeDef SNS_Production_Hidden 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Windy found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Hail found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Blizzard found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Blizzard found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Drizzle found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySnow found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Blizzard found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySnow found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Could not resolve cross-reference to RimWorld.StuffCategoryDef named Leather (wanter=categories) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Hail found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Overcast found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Drizzle found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_SandStorm found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Drizzle found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Drizzle found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
+Could not resolve cross-reference: No Verse.WeatherDef named RG_Overcast found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Could not resolve cross-reference to RimWorld.StuffCategoryDef named ResourcesRaw (wanter=categories) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not resolve cross-reference: No Verse.WeatherDef named RG_SandStormHard found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Overcast found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySandstorm found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_SandStormHard found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Hail found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
 Could not resolve cross-reference: No Verse.WeatherDef named RG_Windy found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Overcast found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Hail found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Monsoon found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
 Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySnow found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Hail found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Drizzle found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Could not resolve cross-reference: No Verse.WeatherDef named RG_Overcast found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_SandStorm found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySnow found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Drizzle found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Monsoon found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySnow found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_SandStormHard found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Drizzle found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Windy found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Hail found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Overcast found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySnow found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Hail found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Overcast found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_FoggySnow found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Windy found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Blizzard found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.WeatherDef named RG_Hail found to give to RimWorld.WeatherCommonalityRecord RimWorld.WeatherCommonalityRecord 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key Concept_SimpleSidearmsBasic. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key Concept_SidearmsInInventory. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key Concept_SidearmsPrimary. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key Concept_SidearmsMissing. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key Concept_SimpleSidearmsAdvanced. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key Concept_SimpleSidearmsDropping. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key Concept_CEOverride. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key GuestBeds. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key RecruitGuest. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key GuestWork. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key Hospitality. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key RE_PrefabDoorStates. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key RE_PrefabOutdoorLampsPower. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key RE_PrefabWallLamps. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key BuildersTryMine. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_ReusableNeolithicProjectiles. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_Reload. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_ReloadNoMag. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_ReloadAuto. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_ReloadManned. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_FireModes. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_AimModes. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_Spotting. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_MortarDirectFire. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_AimingSystem. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_Stabilizing. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_Shields. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_ArmorSystem. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_SuppressionReaction. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_Hunkering. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_WornBulk. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_Crouching. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_NightVision. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_MuzzleFlash. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_TargettedModes. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_Bipods. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_TargettedModesMelee. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_InventoryWeightBulk. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_Loadouts. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_AmmoCrafting. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_ObtainingFSX. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_ObtainingPrometheum. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_CentipedeArmor. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_AmmoSettings. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key Concept_SimpleSidearmsBasic. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key Concept_SidearmsInInventory. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key Concept_SidearmsPrimary. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key Concept_SidearmsMissing. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key Concept_SimpleSidearmsAdvanced. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key Concept_SimpleSidearmsDropping. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key Concept_CEOverride. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key GuestBeds. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key RecruitGuest. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key GuestWork. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key Hospitality. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key RE_PrefabDoorStates. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key RE_PrefabOutdoorLampsPower. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key RE_PrefabWallLamps. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key BuildersTryMine. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_ReusableNeolithicProjectiles. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_Reload. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_ReloadNoMag. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_ReloadAuto. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_ReloadManned. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_FireModes. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_AimModes. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_Spotting. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_MortarDirectFire. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_AimingSystem. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_Stabilizing. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_Shields. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_ArmorSystem. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_SuppressionReaction. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_Hunkering. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_WornBulk. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_Crouching. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_NightVision. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_MuzzleFlash. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_TargettedModes. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_Bipods. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_TargettedModesMelee. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_InventoryWeightBulk. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_Loadouts. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_AmmoCrafting. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_ObtainingFSX. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_ObtainingPrometheum. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_CentipedeArmor. Adding it... 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Knowledge data was missing key CE_AmmoSettings. Adding it... 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Error while resolving references for def WeaponRetrieval: System.NullReferenceException: Object reference not set to an instance of an object
@@ -877,15 +839,17 @@ Mod Share The Load did not load any content. Following load folders were used:
   - C:\Users\Axesys\Desktop\RimWorld.v1.3.3389\Mods\Share The Load 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
+Mod Mortar Accuracy did not load any content. Following load folders were used:
+  - C:\Users\Axesys\Desktop\RimWorld.v1.3.3389\Mods\Mortar Accuracy 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
 Mod Project RimFactory Revived did not load any content. Following load folders were used:
   - C:\Users\Axesys\Desktop\RimWorld.v1.3.3389\Mods\Project RimFactory Revived\1.2
   - C:\Users\Axesys\Desktop\RimWorld.v1.3.3389\Mods\Project RimFactory Revived 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Mod Mortar Accuracy did not load any content. Following load folders were used:
-  - C:\Users\Axesys\Desktop\RimWorld.v1.3.3389\Mods\Mortar Accuracy 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE3FA40.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE38DB0.dll
 Texture DryadNestA has dimensions of 128 x 128, but its mask has 256 x 256. This is not supported, texture will be excluded from atlas 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
@@ -895,12 +859,139 @@ Texture DryadNestA has dimensions of 128 x 128, but its mask has 256 x 256. This
 Translation data for language English has 125 errors. Generate translation report for more info. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE40650.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE41260.dll
 <color=orange>[CSG]</color> Symbols Creator Started.
-<color=orange>[CSG]</color> Created 19881 symbolDefs for 5 mods. Took 00.03s.
+<color=orange>[CSG]</color> Created 19881 symbolDefs for 5 mods. Took 00.07s.
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE41E70.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A2EBE42A80.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6147570F0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614752890.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6147558D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6147564E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6147540B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614751C80.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614754CC0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614757D00.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614751070.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61475A130.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614758910.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6147534A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61475B950.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61475E990.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61475D170.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61475DD80.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61475C560.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61475AD40.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61475F5A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6147601B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614759520.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6147619D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614764A10.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614763E00.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614765620.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614766E40.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614766230.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6147625E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6147631F0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614767A50.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614760DC0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61476B6A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61476C2B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61476F2F0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61476AA90.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614768660.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61476DAD0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61476FF00.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61476CEC0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61476E6E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614769270.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614769E80.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614590A00.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61458F1E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61458C1A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614591610.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61458CDB0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614592220.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614592E30.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61458D9C0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61458FDF0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614593A40.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614594650.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614595260.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61458E5D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61459BEF0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614597690.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61459CB00.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614596A80.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614599AC0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614595E70.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61459D710.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61459E320.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61459EF30.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6145982A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61459FB40.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A614598EB0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6145A1360.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6145A0750.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61459B2E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A61459A6D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6145A8C00.dll
+[Spaceports] Fucking around with reflection and DBH...
+[Spaceports] Okay, showtime!
+[Spaceports] Hospitality FOUND, attempting to patch...
+[Spaceports] Attempting to postfix Verse.AI.Group.LordMaker.MakeNewLord...
+[Spaceports] Attempting to postfix Verse.AI.Group.LordManager.ExposeData...
+[Spaceports] Attempting to prefix Hospitality.IncidentWorker_VisitorGroup.TryExecuteWorker...
+[Spaceports] Hospitality + SOS2 not found, integration patches bypassed.
+[Spaceports] Trader Ships/Themis Traders FOUND, attempting to patch...
+[Spaceports] Attempting to postfix TraderShips.IncidentWorkerTraderShip.FindCloseLandingSpot...
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6145A73E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6145A43A0.dll
+[RealRuins][System]: RealRuins started patching at 10/9/2022 11:17:32 AM
+[RealRuins][System]: RealRuins performing manual patching optional mods at 10/9/2022 11:17:32 AM
+[RealRuins][System]: SRTS found, patching...
+[RealRuins][System]: RealRuins finished patching at 10/9/2022 11:17:32 AM (24.022 msec)
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6145A1F70.dll
+PickUpAndHaul v0.1.3.2⅔ welcomes you to RimWorld with pointless logspam.
+[Map Designer for 1.3] Initializing.... 
+Found Map Reroll
+[Map Designer] Finding biomes...
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6145A7FF0.dll
+CE successfully patched 0 animals
+CE successfully patched 0 humanoid alien races
+Locks: Doors expanded not found 
+Locks: SoS2 not found 
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6145A4FB0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6145A5BC0.dll
+[SRTS Expanded] Compatibility with Save our Ship 2 and Combat Extended are temporarily disabled at the moment. SoS2 compatibility will happen soon(ish), CE compatibility will not. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6145A67D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6145A9810.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6145A2B80.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6145AA420.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6145A3790.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A6145AB030.dll
+Alien race successfully completed 180 patches with harmony.
+[GLF] Applying compatibility patches for MapReroll.
+[Soil Relocation 1.2.3] Initializing..
+[ToggleablePatch] Processing 6 patches for "UdderlyEvelyn.SoilRelocation"..
+[ToggleablePatch] Applying patches in patch group "Dubs Skylights Glass Uses Sand"..
+[ToggleablePatch] Applying patch "Dubs Skylights Glass Uses Sand", patching Dubwise.DubsSkylights.SmeltGlass (Verse.RecipeDef)..
+[ToggleablePatch] Applying patch "Dubs Skylights Glass 4x Uses Sand 4x", patching Dubwise.DubsSkylights.SmeltGlass4x (Verse.RecipeDef)..
+[ToggleablePatch] Skipping application of patch "Glass+Lights Glass Uses Sand" because it cannot be applied.
+[ToggleablePatch] Skipping application of patch "Just Glass Glass Uses Sand" because it cannot be applied.
+[ToggleablePatch] Applying patch "Sandbags Use Sand", patching Sandbags (Verse.BuildableDef)..
+[ToggleablePatch] Applying patch "Fungal Gravel Uses Raw Fungus", patching Ludeon.RimWorld.Ideology.FungalGravel (Verse.BuildableDef)..
+[ToggleablePatch] Applying patch "VFE Architect Packed Dirt Costs Dirt", patching VanillaExpanded.VFEArchitect.VFEArch_PlayerPackedDirt (Verse.BuildableDef)..
 [CMColorCodedMoodBar] CMColorCodedMoodBar 1.3.3136.1 initialized
 [CMColorCodedMoodBar] Unable To Get Types For: SimpleSidearms, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
+Wall Light: v1.3.7890.36463
 [ShowDrafteesWeapon] Initialized
 Error in static constructor of Rimefeller.Gizmo_CrackerStatus: System.TypeLoadException: Type Rimefeller.Gizmo_CrackerStatus has invalid vtable method slot 11 with method none
   at (wrapper managed-to-native) System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(intptr)
@@ -914,67 +1005,45 @@ Error in static constructor of Rimefeller.Gizmo_StorageTankGauge: System.TypeLoa
   at Verse.StaticConstructorOnStartupUtility.CallAll () [0x0001a] in <81af9f8a18324e17b286924a43555a7c>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Wall Light: v1.3.7890.36463
-Exception getting types in assembly Rimefeller, Version=1.2.7175.25675, Culture=neutral, PublicKeyToken=null. Some types may not work correctly. Exception: System.Reflection.ReflectionTypeLoadException: Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
-  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
-  at System.Reflection.Assembly.GetTypes () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at Verse.GenTypes+<get_AllTypes>d__4.MoveNext () [0x0004a] in <81af9f8a18324e17b286924a43555a7c>:0  
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[SRTS Expanded] Compatibility with Save our Ship 2 and Combat Extended are temporarily disabled at the moment. SoS2 compatibility will happen soon(ish), CE compatibility will not. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Spaceports] Fucking around with reflection and DBH...
-[Spaceports] Okay, showtime!
-[Spaceports] Hospitality FOUND, attempting to patch...
-[Spaceports] Attempting to postfix Verse.AI.Group.LordMaker.MakeNewLord...
-[Spaceports] Attempting to postfix Verse.AI.Group.LordManager.ExposeData...
-[Spaceports] Attempting to prefix Hospitality.IncidentWorker_VisitorGroup.TryExecuteWorker...
-[Spaceports] Hospitality + SOS2 not found, integration patches bypassed.
-[Spaceports] Trader Ships/Themis Traders FOUND, attempting to patch...
-[Spaceports] Attempting to postfix TraderShips.IncidentWorkerTraderShip.FindCloseLandingSpot...
-[Soil Relocation 1.2.3] Initializing..
-[ToggleablePatch] Processing 6 patches for "UdderlyEvelyn.SoilRelocation"..
-[ToggleablePatch] Applying patches in patch group "Dubs Skylights Glass Uses Sand"..
-[ToggleablePatch] Applying patch "Dubs Skylights Glass Uses Sand", patching Dubwise.DubsSkylights.SmeltGlass (Verse.RecipeDef)..
-[ToggleablePatch] Applying patch "Dubs Skylights Glass 4x Uses Sand 4x", patching Dubwise.DubsSkylights.SmeltGlass4x (Verse.RecipeDef)..
-[ToggleablePatch] Skipping application of patch "Glass+Lights Glass Uses Sand" because it cannot be applied.
-[ToggleablePatch] Skipping application of patch "Just Glass Glass Uses Sand" because it cannot be applied.
-[ToggleablePatch] Applying patch "Sandbags Use Sand", patching Sandbags (Verse.BuildableDef)..
-[ToggleablePatch] Applying patch "Fungal Gravel Uses Raw Fungus", patching Ludeon.RimWorld.Ideology.FungalGravel (Verse.BuildableDef)..
-[ToggleablePatch] Applying patch "VFE Architect Packed Dirt Costs Dirt", patching VanillaExpanded.VFEArchitect.VFEArch_PlayerPackedDirt (Verse.BuildableDef)..
-Alien race successfully completed 180 patches with harmony.
-[RealRuins][System]: RealRuins started patching at 10/9/2022 10:36:59 AM
-[RealRuins][System]: RealRuins performing manual patching optional mods at 10/9/2022 10:36:59 AM
-[RealRuins][System]: SRTS found, patching...
-[RealRuins][System]: RealRuins finished patching at 10/9/2022 10:36:59 AM (19.6162 msec)
-PickUpAndHaul v0.1.3.2⅔ welcomes you to RimWorld with pointless logspam.
-[Map Designer for 1.3] Initializing.... 
-Found Map Reroll
-[Map Designer] Finding biomes...
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-Locks: Doors expanded not found 
-Locks: SoS2 not found 
-[GLF] Applying compatibility patches for MapReroll.
-CE successfully patched 0 animals
-CE successfully patched 0 humanoid alien races
 OnLevelWasLoaded was found on ModInitializerComponent
 This message has been deprecated and will be removed in a later version of Unity.
 Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed 
 (Filename:  Line: 369)
 
+[AllowTool] Applied compatibility patch for "Pick Up And Haul"
 Curl error 42: Callback aborted
  
 (Filename:  Line: 853)
 
-[AllowTool] Applied compatibility patch for "Pick Up And Haul"
-  --> [What's That Mod] Took 1.91 seconds to scan all patches. <--
-What's That Mod: Wrote to 9038 mod descriptions, 556 patched defs resolved.
-What's That Mod took 1938 milliseconds to generate all def descriptions.
 Combat Extended :: Ammo injected
 Combat Extended :: Bounds pre-generated
-[HugsLib] initializing LWM_DeepStorage, StackableChunks, Linkolas.Stabilize, Hospitality, RealisticRoomsRewritten, RealRuins, Psychology, com.github.alandariva.moreplanning, MapReroll, Autopsy, CashRegister, Gastronomy
+  --> [What's That Mod] Took 1.90 seconds to scan all patches. <--
+What's That Mod: Wrote to 9038 mod descriptions, 556 patched defs resolved.
+What's That Mod took 1986 milliseconds to generate all def descriptions.
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CACD00.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CA9CC0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CAA8D0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CA90B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CA84A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CA7890.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CAB4E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CAC0F0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CA6070.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CAD910.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CA6C80.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CAE520.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CAFD40.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CB2170.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CB0950.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CB45A0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CAF130.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CB51B0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CB5DC0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CB75E0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CB81F0.dll
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CB69D0.dll
+[HugsLib] initializing LWM_DeepStorage, StackableChunks, Linkolas.Stabilize, Hospitality, RealisticRoomsRewritten, RealRuins, Psychology, com.github.alandariva.moreplanning, MapReroll, CashRegister, Gastronomy, Autopsy
+Fallback handler could not load library C:/Users/Axesys/Desktop/RimWorld.v1.3.3389/RimWorldWin64_Data/Mono/data-000001A618CB1560.dll
 [StackableChunks] Chunk Stacks set too: 15
 [StackableChunks] Slag Stacks set too: 15
 FactionDef VFEP_Mercenaries must have at least one pawnGroupMaker with kindDef 'Peaceful', or 'permanentEnemy', 'isPlayer' or 'hidden' should be set to true. Otherwise no guests from this faction will arrive. This is a misconfiguration in Vanilla Factions Expanded - Pirates. 
@@ -1003,7 +1072,7 @@ Exception getting types in assembly Rimefeller, Version=1.2.7175.25675, Culture=
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 3)
-UnloadTime: 0.565700 ms
+UnloadTime: 0.312800 ms
 Exception getting types in assembly Rimefeller, Version=1.2.7175.25675, Culture=neutral, PublicKeyToken=null. Some types may not work correctly. Exception: System.Reflection.ReflectionTypeLoadException: Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
   at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
   at System.Reflection.Assembly.GetTypes () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
@@ -1688,43 +1757,27 @@ Exception getting types in assembly Rimefeller, Version=1.2.7175.25675, Culture=
   at Verse.GenTypes+<get_AllTypes>d__4.MoveNext () [0x0004a] in <81af9f8a18324e17b286924a43555a7c>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
+QualityBuilder added property to '389' things
 
 Unloading 1502 unused Assets to reduce memory usage. Loaded Objects now: 49589.
-Total: 596.854200 ms (FindLiveObjects: 1.911400 ms CreateObjectMapping: 1.143900 ms MarkObjects: 592.444600 ms  DeleteObjects: 1.354000 ms)
+Total: 608.453800 ms (FindLiveObjects: 2.071800 ms CreateObjectMapping: 1.509700 ms MarkObjects: 603.343200 ms  DeleteObjects: 1.528600 ms)
 
 Loading game from file New Arrivals2 with mods:
   - brrainz.harmony
   - Ludeon.RimWorld
   - Ludeon.RimWorld.Royalty
   - Ludeon.RimWorld.Ideology
-  - dvs.ninetyninepercent
   - OskarPotocki.VanillaFactionsExpanded.Core
   - FrozenSnowFox.AdvancedBionicsExpansion
+  - automatic.autocleaner
+  - Anonymous189.RegrowthHCoreHRemastered
   - UnlimitedHugs.HugsLib
   - UnlimitedHugs.AllowTool
-  - automatic.autocleaner
   - razor2.3.AnotherRimworldMod.AutoCutBlight
   - automatic.bionicicons
   - brrainz.cameraplus
-  - Orion.CashRegister
-  - CrashM.ColorCodedMoodBar.11
-  - kikohi.whatsforsale
-  - Owlchemist.UndergroundPowerConduits
-  - PeteTimesSix193.SimpleHsidearms
-  - gguake.ui.simplesearchbar
-  - targhetti.ShowDrafteesWeapon
-  - Anonymous189.ShareHTheHLoad
-  - explodoboy.SNSAmbitionCosmic
-  - RadZerp.neoRimNauts
-  - Dubwise.Rimefeller
-  - Anonymous189.RegrowthHCoreHRemastered
-  - Anonymous189.ProjectHRimFactoryHRevived
-  - Anonymous189.MortarHAccuracy
-  - AndrewRaphaelLukasik.AllowDeadAnimals
   - Odeum.WMBP
-  - co.uk.epicguru.whatsthatmod
-  - Uuugggg.WhatIsMyPurpose
-  - Murmur.WallLight
+  - gguake.ui.simplesearchbar
   - VanillaExpanded.VWETB
   - vanillaexpanded.achievements
   - VanillaExpanded.VWE
@@ -1755,7 +1808,6 @@ Loading game from file New Arrivals2 with mods:
   - VanillaExpanded.VPlantsE
   - VanillaExpanded.VPlantsEMore
   - vanillaexpanded.outposts
-  - Anon.VanillaMissingBionics
   - VanillaExpanded.VIESAS
   - VanillaExpanded.VCookE
   - VanillaExpanded.VCEF
@@ -1812,59 +1864,76 @@ Loading game from file New Arrivals2 with mods:
   - automatic.traderships
   - zhrocks11.stackablechunks
   - Linkolas.Stabilize
-  - smashphil.neceros.srtsexpanded
   - SomewhereOutInSpace.Spaceports
-  - UdderlyEvelyn.ConsistentMapStone
-  - UdderlyEvelyn.SoilRelocation
   - weilbyte.snapout
   - Uuugggg.SmartMedicine
   - dhultgren.smarterconstruction
   - Dubwise.DubsSkylights
-  - JangoDsoul.SimpleStorage
   - syrchalis.setupcamp
-  - tammybee.selectablesculpturegraphic
   - Mlie.RoadsOfTheRim
   - Orion.Hospitality
   - Mlie.RimQuest
-  - erdelf.HumanoidAlienRaces
-  - RimEffect.Core
-  - RimEffect.ExtendedCut
-  - twistedpacifist.ReasonableComponents
   - Uuugggg.ReplaceStuff
   - Lucifer.RealisticRooms
   - Woolstrand.RealRuins
   - hatti.qualitybuilder
   - Community.Psychology.UnofficialUpdate
   - syrchalis.prosthetictable
-  - EdB.PrepareCarefully
   - Haplo.Miscellaneous.Robots
   - Mehni.PickUpAndHaul
-  - Fluffy.Pharmacist
-  - Bichang.MoreSculpture
   - com.github.alandariva.moreplanning
-  - Alaestor.MiscRobots.PlusPlus
   - erdelf.MinifyEverything
-  - thegoofyone.metaldoesntburn
   - UnlimitedHugs.MapReroll
   - zylle.MapDesigner
-  - avius.locks
   - aRandomKiwi.HuntForMe
   - NotooShabby.HomeMover
-  - Smuffle.HarvestOrgansPostMortem
   - SF.Grim.Reality
-  - Telefonmast.GraphicsSettings
-  - m00nl1ght.GeologicalLandforms
+  - Orion.CashRegister
   - Orion.Gastronomy
-  - SR.ModRimworld.FactionalWar
   - Nals.FacialAnimation
-  - Dubwise.Rimatomics
-  - Dubwise.DubsMintMenus
+  - CETeam.CombatExtended
+  - EdB.PrepareCarefully
+  - avius.locks
+  - dvs.ninetyninepercent
   - Dubwise.DubsBadHygiene
   - Dubwise.DubsCentralHeating
+  - smashphil.neceros.srtsexpanded
+  - erdelf.HumanoidAlienRaces
+  - RimEffect.Core
+  - m00nl1ght.GeologicalLandforms
+  - RimEffect.ExtendedCut
+  - UdderlyEvelyn.ConsistentMapStone
+  - UdderlyEvelyn.SoilRelocation
+  - CrashM.ColorCodedMoodBar.11
   - UdderlyEvelyn.ConsistentDeepDrillStone
-  - CETeam.CombatExtended
+  - SR.ModRimworld.FactionalWar
+  - Smuffle.HarvestOrgansPostMortem
+  - Murmur.WallLight
+  - Anon.VanillaMissingBionics
+  - tammybee.selectablesculpturegraphic
+  - twistedpacifist.ReasonableComponents
+  - Fluffy.Pharmacist
+  - Bichang.MoreSculpture
+  - Alaestor.MiscRobots.PlusPlus
+  - thegoofyone.metaldoesntburn
+  - JangoDsoul.SimpleStorage
+  - Uuugggg.WhatIsMyPurpose
+  - kikohi.whatsforsale
+  - Owlchemist.UndergroundPowerConduits
+  - PeteTimesSix193.SimpleHsidearms
+  - Anonymous189.ShareHTheHLoad
+  - Dubwise.DubsMintMenus
   - iemanddieabeheet.colonistsdeco
-QualityBuilder added property to '389' things
+  - Dubwise.Rimatomics
+  - Telefonmast.GraphicsSettings
+  - co.uk.epicguru.whatsthatmod
+  - explodoboy.SNSAmbitionCosmic
+  - AndrewRaphaelLukasik.AllowDeadAnimals
+  - Anonymous189.MortarHAccuracy
+  - RadZerp.neoRimNauts
+  - targhetti.ShowDrafteesWeapon
+  - Anonymous189.ProjectHRimFactoryHRevived
+  - Dubwise.Rimefeller
 Exception getting types in assembly Rimefeller, Version=1.2.7175.25675, Culture=neutral, PublicKeyToken=null. Some types may not work correctly. Exception: System.Reflection.ReflectionTypeLoadException: Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
   at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
   at System.Reflection.Assembly.GetTypes () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
@@ -2075,12 +2144,6 @@ A hidden ritual precept was missing, adding: Role change
 Some pawnsForcefullyKeptAsWorldPawns were null after loading. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not find think node with key 422220432 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not find think node with key 422220432 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
 QualityBuilder added to orders category.
 Exception from asynchronous event: System.MissingMethodException: void Verse.Dialog_MessageBox..ctor(Verse.TaggedString,string,System.Action,string,System.Action,string,bool,System.Action,System.Action)
   at (wrapper dynamic-method) Verse.Game.Verse.Game.LoadGame_Patch2(Verse.Game)
@@ -2097,19 +2160,19 @@ Exception getting types in assembly Rimefeller, Version=1.2.7175.25675, Culture=
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 57061.
-Total: 830.927500 ms (FindLiveObjects: 2.570100 ms CreateObjectMapping: 1.492600 ms MarkObjects: 826.776400 ms  DeleteObjects: 0.088100 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 57063.
+Total: 843.080800 ms (FindLiveObjects: 2.561400 ms CreateObjectMapping: 1.749600 ms MarkObjects: 838.676800 ms  DeleteObjects: 0.092700 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 3)
-UnloadTime: 0.306200 ms
+UnloadTime: 0.294000 ms
 
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 57035.
-Total: 632.250400 ms (FindLiveObjects: 2.110800 ms CreateObjectMapping: 1.576700 ms MarkObjects: 628.467600 ms  DeleteObjects: 0.095200 ms)
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 57037.
+Total: 641.281900 ms (FindLiveObjects: 2.164700 ms CreateObjectMapping: 1.563600 ms MarkObjects: 637.447100 ms  DeleteObjects: 0.106400 ms)
 
 Setting up 6 worker threads for Enlighten.
-  Thread -> id: 3648 -> priority: 1 
-  Thread -> id: 3a00 -> priority: 1 
-  Thread -> id: 430c -> priority: 1 
-  Thread -> id: 3de8 -> priority: 1 
-  Thread -> id: 4148 -> priority: 1 
-  Thread -> id: 4744 -> priority: 1 
+  Thread -> id: 1418 -> priority: 1 
+  Thread -> id: 16c4 -> priority: 1 
+  Thread -> id: 4bf0 -> priority: 1 
+  Thread -> id: 3970 -> priority: 1 
+  Thread -> id: 5080 -> priority: 1 
+  Thread -> id: 3c3c -> priority: 1 
